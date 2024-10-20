@@ -1,0 +1,10 @@
+1- express;
+2-mysql2
+3-sequelize
+4-body-parser
+5-cors
+--------------------
+instalando react native expo
+1-npm install -g expo-cli
+2- expo init FrontEnd
+3-npx expo install react-native-web react-dom @expo/metro-runtime
